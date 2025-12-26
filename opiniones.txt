@@ -4,4 +4,7 @@ el sexto sentido: Muy buena!!
 el sexto sentido: fdsfsdf
 el sexto sentido: dggfdgfdg
 el sexto sentido: Muy buena
+<<<<<<< HEAD
 el sexto sentido: Muy buena película!
+=======
+>>>>>>> b92a81c895845fac39e9e7d1c1bfb24fba35f10f

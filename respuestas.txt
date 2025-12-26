@@ -34,5 +34,8 @@ abc
 El sexto sentido
 El sexto sentido
 abc
+<<<<<<< HEAD
 abc
 El sexto sentido
+=======
+>>>>>>> b92a81c895845fac39e9e7d1c1bfb24fba35f10f
